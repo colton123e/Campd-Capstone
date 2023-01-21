@@ -19,7 +19,7 @@
     "concurrently": "^5.1.0",
     "cors": "^2.8.5",
     "create-react-app": "^3.4.1",
-    "express": "^4.17.3",
+    "express": "^4.18.2",
     "is-empty": "^1.2.0",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.13.15",
