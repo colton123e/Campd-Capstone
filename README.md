@@ -1,3 +1,6 @@
+## This project is now archived. It was only used for a group Computer Science Captstone project in 2020.
+## Dependadot updates were performed before archiving.
+
 # Campd-Capstone
 Team Campd Capstone Project Repo
 
